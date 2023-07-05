@@ -1,7 +1,7 @@
 import { Outlet } from 'react-router-dom';
 
 // import CategoryItem from './Components/category-item/category-item.component';
-import Directory from '../Components/directory/directory.component';
+import Directory from '../components/directory/directory.component';
 
 const Home = () => {
 
